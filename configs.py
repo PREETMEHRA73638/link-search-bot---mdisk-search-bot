@@ -10,7 +10,7 @@ class Config(object):
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001855434571"))
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "MOVIES_VILLA_SEARCH_BOT")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "6339699671"))
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Fake123:Fake123@cluster0.uhchask.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://LinkSearchBot:mongodb786@cluster0.gwbtuaj.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001896148531")
     ABOUT_BOT_TEXT = """<b>This is Link Search Bot.
     
