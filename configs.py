@@ -16,18 +16,18 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://youtube.com/@GreyMattersBot'>Link Search Bot</a>
+🤖 My Name: <a href='https://t.me/MOVIES_VILLA_SEARCH_BOT'>ᴹᴼᵛᴵᴱˢ ᵛᴵᴸᴸᴬ ˢᴱᴬᴿᶜᴴ ᴮᴼᵀ</a>
 
-📝 Language : <a href='https://www.python.org'> Python V3</a>
+📝 Language : <a href='https://www.python.org'>ᴾᵞᵀᴴᴼᴺ ᵛ3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+📚 Library: <a href='https://docs.pyrogram.org'>ᴾᵞᴿᴼᴳᴿᴬᴹ</a>
 
-📡 Server: <a href='koyeb.com'>Koyeb</a>
+📡 Server: <a href='heroku.com'>ᴴᴱᴿᴼᴷᵁ</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+👨‍💻 Created By: <a href='https://t.me/Hindi_movies_villa'>ᴹᴼᵛᴵᴱˢ ᵛᴵᴸᴸᴬ</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/Hindi_movies_villa'>ᴹᴼᵛᴵᴱˢ ᵛᴵᴸᴸᴬ</a>
 If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
 """
 
@@ -38,7 +38,7 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @ROYAL_OSM_MEHRAp</a></b>
 """
 
 
@@ -49,6 +49,6 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bot</a></b>
+<a>Made With ❤ By @ROYAL_OSM_MEHRA</a></b>
 """
 
